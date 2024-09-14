@@ -3,8 +3,6 @@
   <img src="./welcome.svg"/>
 </p>
 
-<div>&nbsp;</div>
-
 ### ⚡ Skill Badge
 <div align="center">
   <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?&logo=typescript&logoColor=white"/>&nbsp;
@@ -19,8 +17,6 @@
   <img src="https://img.shields.io/badge/-Github-black?&logo=github"/>
 </div>
 
-<div>&nbsp;</div>
-
 ### 🌓 GitHub Activity Graph
 <table>
   <tr>
@@ -31,8 +27,6 @@
       </picture>
   </tr>
 </table>
-
-<div>&nbsp;</div>
 
 ### 🤾‍♂️ Funny Soul
 
